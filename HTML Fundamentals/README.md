@@ -21,7 +21,21 @@ Body Element: contains the content to be displayed.
 - \<link\>: provide links to different types of resources
 - \<base\>: allows to specify base address where all links will be based on
 
+## Elements & Attributes:
+
+An element in HTML is a type of HTML document component and those elements can have different attributes such as name, content, href, etc.…
+
+- Class attribute: Can be used to point to a class name in a style sheet and JavaScript can access and manipulate elemts with a specific class name.
+- Id attribute: Specifies a unique id for an HTML element.
+- Name attribute: Specifies a name for an HTML element, can also be used to reference the element in JavaScript
 
  ## How to write comments and special instructions in HTML:
 - If a tag looks like <!something> the '!' indicates that's a processing instruction.
 - \<!-- --\> this wrapped tag indicates a comment in HTML
+  
+## \<body\> element:
+- Text: being able to render out text.
+- Lists: Identify a set of items that belong together
+- Links: Power to connect one document to another
+- Tables: Displaying data
+- Images: Allow photos that go along with content  
