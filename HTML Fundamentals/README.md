@@ -39,3 +39,19 @@ An element in HTML is a type of HTML document component and those elements can h
 - Links: Power to connect one document to another
 - Tables: Displaying data
 - Images: Allow photos that go along with content  
+
+## Displaying Text
+
+### Headings
+Used to denote sections of the document
+- H1 Primary heading, should only appear once per page
+- H2-H6 used to split up your content in different sections/hierarchies.
+
+
+### Block Elements:
+- Containers to group other elements
+- May contain block or inline elements
+
+### Inline Elements:
+- Container for text
+- May contain other inline elements
